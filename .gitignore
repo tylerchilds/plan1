@@ -1,0 +1,8 @@
+backups/
+.env
+app/.envrc
+dist
+rust-9p-master/
+cloud.exe
+deno.lock
+npm/
